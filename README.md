@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everyone.
 - 📫 How to reach me email: realchanin@gmail.com
 
-realchanin.github.io
+https://realchanin.github.io
 
 <!---
 realchanin/realchanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
